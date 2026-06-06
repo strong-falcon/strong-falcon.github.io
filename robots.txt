@@ -1,6 +1,4 @@
-# 允許所有搜尋引擎收錄全站
 User-agent: *
 Allow: /
 
-# ⚠️ 上線前請把 strong-falcon 換成你的 GitHub 帳號
 Sitemap: https://strong-falcon.github.io/sitemap.xml
